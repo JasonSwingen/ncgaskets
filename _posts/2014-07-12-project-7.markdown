@@ -1,0 +1,13 @@
+---
+title: Diamond Plating
+subtitle: 
+layout: default
+modal-id: 7
+date: 2012-07-14
+img: diamond-plating.jpg
+thumbnail: diamond-plating.jpg
+alt: image-alt
+category: Hardware
+description: High quality diamond plating solutions including walk-in cooler door and wall installation. There are a variety of reasons to choose diamond plating over replacement, and it is much less expensive and friendlier to the environment. Diamond plating is ideal for walk-ins, coolers, walls, and exposed corners, and it will cover nicks, stains, and blemishes while refreshing the look of your entire kitchen.
+
+---

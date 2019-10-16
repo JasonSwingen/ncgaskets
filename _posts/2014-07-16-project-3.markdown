@@ -1,0 +1,15 @@
+---
+title: Commercial Smoker Gaskets
+subtitle:
+layout: default
+modal-id: 3
+date: 2014-07-16
+img: smoker.jpg
+thumbnail: smoker.jpg
+alt: image-alt
+project-date: April 2014
+client:
+category: Gaskets
+description: 
+
+---

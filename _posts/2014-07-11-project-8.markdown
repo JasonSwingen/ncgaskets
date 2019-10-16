@@ -1,0 +1,13 @@
+---
+title: Cutting Boards
+subtitle:
+layout: default
+modal-id: 8
+date: 2012-07-14
+img: cutting-board.jpg
+thumbnail: cutting-board.jpg
+alt: image-alt
+category: Hardware
+description: Custom sized commercial cutting boards to fit any kitchen's needs. We can create a custom sized cutting board for any application using top quality materials and craftsmanship. Here's a snapshot of what you can expect from our custom sized commercial cutting boards. Cutting boards that freely lay on top of stainless steel work area’s can be dangerous and cause injuries that lead to workman’s compensation claims. To prevent this, you need to PEG the custom cutting boards into place. Also, you can easily add workspace by PEGGING a custom cutting board over an otherwise unworkable space which will allow you to gain extra workable space with minimal capital investments by using your existing equipment.
+
+---

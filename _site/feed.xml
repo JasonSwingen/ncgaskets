@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>North Country Gaskets</title>
+    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Wed, 16 Oct 2019 09:17:39 -0500</pubDate>
+    <lastBuildDate>Wed, 16 Oct 2019 09:17:39 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Line Cooler Gaskets</title>
+        <description>
+</description>
+        <pubDate>Fri, 18 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/gaskets/2014/07/18/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/gaskets/2014/07/18/project-1/</guid>
+        
+        
+        <category>Gaskets</category>
+        
+      </item>
+    
+      <item>
+        <title>Reach-In Cooler Gaskets</title>
+        <description>
+</description>
+        <pubDate>Thu, 17 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/gaskets/2014/07/17/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/gaskets/2014/07/17/project-2/</guid>
+        
+        
+        <category>Gaskets</category>
+        
+      </item>
+    
+      <item>
+        <title>Commercial Smoker Gaskets</title>
+        <description>
+</description>
+        <pubDate>Wed, 16 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/gaskets/2014/07/16/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/gaskets/2014/07/16/project-3/</guid>
+        
+        
+        <category>Gaskets</category>
+        
+      </item>
+    
+      <item>
+        <title>Walk In Cooler Gaskets</title>
+        <description>
+</description>
+        <pubDate>Tue, 15 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/gaskets/2014/07/15/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/gaskets/2014/07/15/project-4/</guid>
+        
+        
+        <category>Gaskets</category>
+        
+      </item>
+    
+      <item>
+        <title>Walk in Freezer Gaskets</title>
+        <description>
+</description>
+        <pubDate>Mon, 14 Jul 2014 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/gaskets/2014/07/14/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/gaskets/2014/07/14/project-5/</guid>
+        
+        
+        <category>Gaskets</category>
+        
+      </item>
+    
+      <item>
+        <title>Cooler/Freezer Hardware</title>
+        <description>
+</description>
+        <pubDate>Sun, 15 Jul 2012 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/hardware/2012/07/15/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/hardware/2012/07/15/project-6/</guid>
+        
+        
+        <category>Hardware</category>
+        
+      </item>
+    
+      <item>
+        <title>Diamond Plating</title>
+        <description>
+</description>
+        <pubDate>Sat, 14 Jul 2012 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/hardware/2012/07/14/project-7/</link>
+        <guid isPermaLink="true">http://localhost:4000/hardware/2012/07/14/project-7/</guid>
+        
+        
+        <category>Hardware</category>
+        
+      </item>
+    
+      <item>
+        <title>Cutting Boards</title>
+        <description>
+</description>
+        <pubDate>Sat, 14 Jul 2012 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/hardware/2012/07/14/project-8/</link>
+        <guid isPermaLink="true">http://localhost:4000/hardware/2012/07/14/project-8/</guid>
+        
+        
+        <category>Hardware</category>
+        
+      </item>
+    
+  </channel>
+</rss>

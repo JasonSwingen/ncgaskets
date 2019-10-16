@@ -1,0 +1,14 @@
+---
+title: Line Cooler Gaskets
+subtitle:
+layout: default
+modal-id: 1
+date: 2014-07-18
+img: line-cooler.jpg
+thumbnail: line-cooler.jpg
+alt: image-alt
+project-date: April 2014
+client:
+category: Gaskets
+description: The largest selection of commercial gaskets for your kitchen equipment at the best value in the industry. We custom make our own commercial gaskets right here in Minneapolis to offer a perfect fit for any brand or manufacturer of commercial kitchen coolers, freezers, smokers, and much more.
+---

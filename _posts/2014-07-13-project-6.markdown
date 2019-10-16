@@ -1,0 +1,13 @@
+---
+title: Cooler/Freezer Hardware
+subtitle:
+layout: default
+modal-id: 6
+date: 2012-07-15
+img: hinge.jpg
+thumbnail: hinge.jpg
+alt: image-alt
+category: Hardware
+description: Hardware for all of your equipment needs. We stock hardware for all major brands to make your commercial equipment fully functional once again. Our inventory of hardware includes door hinges, door handles, other miscellaneous door hardware, walk-in cooler hardware, and much more!
+
+---
